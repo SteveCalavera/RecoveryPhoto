@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/home_page"
+            android:icon="@drawable/ic_home"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_scan"
+            android:icon="@drawable/ic_scan"
+            android:title="Scan Photos" />
+        <item
+            android:id="@+id/nav_restored"
+            android:icon="@drawable/icon_restore"
+            android:iconTint="#FF000000"
+            android:title="Restored Photos" />
+        <item
+            android:id="@+id/nav_contact_us"
+            android:icon="@drawable/ic_info"
+            android:title="About" />
+    </group>
+
+    <item android:title="More">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/nav_privacy_policy"
+                android:icon="@drawable/ic_privacy"
+                android:title="Privacy Policy" />
+            <item
+                android:id="@+id/nav_rate"
+                android:icon="@drawable/ic_rate"
+                android:title="Rate App" />
+            <item
+                android:id="@+id/nav_more_apps"
+                android:icon="@drawable/ic_more_apps"
+                android:title="Get More Apps" />
+        </menu>
+    </item>
+
+</menu>

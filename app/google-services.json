@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "963797458342",
+    "firebase_url": "https://recoveryphoto-futurestack.firebaseio.com",
+    "project_id": "recoveryphoto-futurestack",
+    "storage_bucket": "recoveryphoto-futurestack.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963797458342:android:32ea7a28d80ce8fedfc367",
+        "android_client_info": {
+          "package_name": "com.FutureStack.RecoveryPhoto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "963797458342-dr2ptpukhigrkkpif709mqei9v7abfbq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.FutureStack.RecoveryPhoto",
+            "certificate_hash": "8d147a8ee3811b9f49d04c3d683c9cba898a7b12"
+          }
+        },
+        {
+          "client_id": "963797458342-u4ph6e8ksmte6e9j045c4kdqj5pt6rgb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANG-_XSI8l82eYht10W2w-y7oK2hjsdiw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "963797458342-u4ph6e8ksmte6e9j045c4kdqj5pt6rgb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
