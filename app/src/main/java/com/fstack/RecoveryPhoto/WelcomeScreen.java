@@ -1,4 +1,4 @@
-package com.FutureStack.RecoveryPhoto;
+package com.fstack.RecoveryPhoto;
 
 import android.content.Intent;
 import android.content.SharedPreferences;
@@ -19,7 +19,7 @@ import android.widget.CompoundButton;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 
-import com.FutureStack.RecoveryPhoto.Activities.SplashScreen;
+import com.fstack.RecoveryPhoto.Activities.SplashScreen;
 
 public class WelcomeScreen extends AppCompatActivity {
 

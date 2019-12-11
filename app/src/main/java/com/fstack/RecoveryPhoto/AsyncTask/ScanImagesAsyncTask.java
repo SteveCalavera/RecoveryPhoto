@@ -1,4 +1,4 @@
-package com.FutureStack.RecoveryPhoto.AsyncTask;
+package com.fstack.RecoveryPhoto.AsyncTask;
 
 import android.app.ProgressDialog;
 import android.content.Context;
@@ -9,8 +9,8 @@ import android.os.Environment;
 import android.os.Handler;
 import android.os.Message;
 
-import com.FutureStack.RecoveryPhoto.Pojo.ImageData;
-import com.FutureStack.RecoveryPhoto.Utils.Config;
+import com.fstack.RecoveryPhoto.Pojo.ImageData;
+import com.fstack.RecoveryPhoto.Utils.Config;
 
 import java.io.File;
 import java.util.ArrayList;

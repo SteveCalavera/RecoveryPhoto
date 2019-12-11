@@ -3,7 +3,7 @@ apply plugin: 'io.fabric'
 android {
     compileSdkVersion 29
     defaultConfig {
-        applicationId "com.FutureStack.RecoveryPhoto"
+        applicationId "com.fstack.RecoveryPhoto"
         minSdkVersion 19
         targetSdkVersion 29
         versionCode 1

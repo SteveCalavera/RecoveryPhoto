@@ -1,4 +1,4 @@
-package com.FutureStack.RecoveryPhoto.Pojo;
+package com.fstack.RecoveryPhoto.Pojo;
 
 public class ImageData {
     String path;

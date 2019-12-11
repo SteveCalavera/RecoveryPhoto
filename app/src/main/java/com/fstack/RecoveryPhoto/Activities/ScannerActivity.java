@@ -1,4 +1,4 @@
-package com.FutureStack.RecoveryPhoto.Activities;
+package com.fstack.RecoveryPhoto.Activities;
 
 import android.os.Bundle;
 import android.os.Environment;
@@ -19,11 +19,11 @@ import android.widget.TextView;
 import com.google.android.gms.ads.AdListener;
 import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.InterstitialAd;
-import com.FutureStack.RecoveryPhoto.Adapters.AdapterImage;
-import com.FutureStack.RecoveryPhoto.AsyncTask.RecoverPhotosAsyncTask;
-import com.FutureStack.RecoveryPhoto.AsyncTask.ScanImagesAsyncTask;
-import com.FutureStack.RecoveryPhoto.Pojo.ImageData;
-import com.FutureStack.RecoveryPhoto.R;
+import com.fstack.RecoveryPhoto.Adapters.AdapterImage;
+import com.fstack.RecoveryPhoto.AsyncTask.RecoverPhotosAsyncTask;
+import com.fstack.RecoveryPhoto.AsyncTask.ScanImagesAsyncTask;
+import com.fstack.RecoveryPhoto.Pojo.ImageData;
+import com.fstack.RecoveryPhoto.R;
 
 import java.io.File;
 import java.io.FileInputStream;

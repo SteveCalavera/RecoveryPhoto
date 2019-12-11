@@ -1,4 +1,4 @@
-package com.FutureStack.RecoveryPhoto.Activities;
+package com.fstack.RecoveryPhoto.Activities;
 
 import android.content.Intent;
 import android.content.pm.PackageManager;
@@ -22,9 +22,9 @@ import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.AdView;
 import com.google.android.gms.ads.InterstitialAd;
 import com.google.android.gms.ads.MobileAds;
-import com.FutureStack.RecoveryPhoto.R;
-import com.FutureStack.RecoveryPhoto.Utils.AppConsts;
-import com.FutureStack.RecoveryPhoto.Utils.Config;
+import com.fstack.RecoveryPhoto.R;
+import com.fstack.RecoveryPhoto.Utils.AppConsts;
+import com.fstack.RecoveryPhoto.Utils.Config;
 
 import java.io.File;
 

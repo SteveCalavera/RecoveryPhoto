@@ -1,4 +1,4 @@
-package com.FutureStack.RecoveryPhoto;
+package com.fstack.RecoveryPhoto;
 
 import org.junit.Test;
 

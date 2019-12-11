@@ -1,4 +1,4 @@
-package com.FutureStack.RecoveryPhoto.Fragments;
+package com.fstack.RecoveryPhoto.Fragments;
 
 import android.content.Context;
 import android.content.pm.ApplicationInfo;
@@ -17,7 +17,7 @@ import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.AdView;
 import com.google.android.gms.ads.InterstitialAd;
 import com.google.android.gms.ads.MobileAds;
-import com.FutureStack.RecoveryPhoto.R;
+import com.fstack.RecoveryPhoto.R;
 
 
 /**

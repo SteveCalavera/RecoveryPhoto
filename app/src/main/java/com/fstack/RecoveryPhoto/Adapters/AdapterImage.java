@@ -1,4 +1,4 @@
-package com.FutureStack.RecoveryPhoto.Adapters;
+package com.fstack.RecoveryPhoto.Adapters;
 
 import android.content.Context;
 import android.view.LayoutInflater;
@@ -9,20 +9,20 @@ import android.widget.CheckBox;
 import android.widget.ImageView;
 import android.widget.Toast;
 
-import com.FutureStack.RecoveryPhoto.Pojo.ImageData;
-import com.FutureStack.RecoveryPhoto.R;
+import com.fstack.RecoveryPhoto.Pojo.ImageData;
+import com.fstack.RecoveryPhoto.R;
 
 import java.util.ArrayList;
 
-import static com.FutureStack.RecoveryPhoto.Activities.RestoredScannerActivity.toolbar;
+import static com.fstack.RecoveryPhoto.Activities.ScannerActivity.toolbar;
 
 
-public class AdapterRestoredImages extends BaseAdapter {
+public class AdapterImage extends BaseAdapter {
     ArrayList<ImageData> alImageData;
     Context context;
     private static LayoutInflater inflater=null;
 
-    public AdapterRestoredImages(Context context, ArrayList<ImageData> alImageData){
+    public AdapterImage(Context context, ArrayList<ImageData> alImageData){
         this.alImageData = alImageData;
         this.context=context;
         inflater = (LayoutInflater)context.getSystemService(Context.LAYOUT_INFLATER_SERVICE);

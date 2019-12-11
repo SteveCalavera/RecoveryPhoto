@@ -1,4 +1,4 @@
-package com.FutureStack.RecoveryPhoto.Adapters;
+package com.fstack.RecoveryPhoto.Adapters;
 
 import com.bumptech.glide.annotation.GlideModule;
 import com.bumptech.glide.module.AppGlideModule;

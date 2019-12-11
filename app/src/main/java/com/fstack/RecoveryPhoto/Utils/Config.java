@@ -1,4 +1,4 @@
-package com.FutureStack.RecoveryPhoto.Utils;
+package com.fstack.RecoveryPhoto.Utils;
 
 import android.os.Environment;
 import java.io.File;

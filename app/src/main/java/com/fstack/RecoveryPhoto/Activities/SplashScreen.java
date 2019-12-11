@@ -1,4 +1,4 @@
-package com.FutureStack.RecoveryPhoto.Activities;
+package com.fstack.RecoveryPhoto.Activities;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -6,7 +6,7 @@ import android.os.Handler;
 import androidx.appcompat.app.AppCompatActivity;
 import android.view.WindowManager;
 
-import com.FutureStack.RecoveryPhoto.R;
+import com.fstack.RecoveryPhoto.R;
 
 
 public class SplashScreen extends AppCompatActivity {

@@ -1,4 +1,4 @@
-package com.FutureStack.RecoveryPhoto.Utils;
+package com.fstack.RecoveryPhoto.Utils;
 
 import android.content.Context;
 import android.media.MediaScannerConnection;

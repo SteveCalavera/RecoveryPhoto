@@ -1,12 +1,12 @@
-package com.FutureStack.RecoveryPhoto.Activities;
+package com.fstack.RecoveryPhoto.Activities;
 
 import android.os.Bundle;
-import android.preference.PreferenceActivity;
+
 import androidx.appcompat.app.ActionBar;
 import androidx.appcompat.app.AppCompatActivity;
 import android.view.MenuItem;
 
-import com.FutureStack.RecoveryPhoto.R;
+import com.fstack.RecoveryPhoto.R;
 
 
 public class AboutActivity extends AppCompatActivity {
