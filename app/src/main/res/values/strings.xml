@@ -1,20 +1,20 @@
 <resources>
     <string name="app_name">Recovery Photo</string>
 
-    <string name="url_privacy">Your privacy policy pdf link</string>
-    <string name="more_app_link">Your Store Google play link</string>
+    <string name="url_privacy">https://piol.in/page/Privacy-Recovery-Photo</string>
+    <string name="more_app_link">https://play.google.com/store/apps/developer?id=FutureStack+🚀🌚</string>
     <string name="banner_id">ca-app-pub-3940256099942544/6300978111</string>
-    <string name="interstitial_id">ca-app-pub-3940256099942544/1033173712</string>
-    <string name="adMob_app_id">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="interstitial_id">ca-app-pub-9400000516527956/4584902602</string>
+    <string name="adMob_app_id">ca-app-pub-9400000516527956~7574043938</string>
     <string name="adMob_test_id">ca-app-pub-3940256099942544~3347511713</string>
 
     <string name="autor">Recovery Photo 📷</string>
-    <string name="descripton">Photo recovery allows you to recover deleted photos on your phone</string>
-    <string name="title_activity_main">MainActivity</string>
+    <string name="descripton">Photo recovery allows you to recovery data hard disk of your phone</string>
+    <string name="title_activity_main">Recovery data hard disk</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="nav_header_title">Android Studio</string>
-    <string name="nav_header_subtitle">liFutureStackoft@gmail.com</string>
+    <string name="nav_header_subtitle">futurestack@gmail.com</string>
     <string name="nav_header_desc">Navigation header</string>
     <string name="action_settings">Settings</string>
     <string name="action_restore">Restore</string>
@@ -22,7 +22,7 @@
     <string name="privacy_policy">Privacy Policy</string>
     <string name="agree_and_continue">Agree and Continue</string>
     <string name="i_have_read_and_agree">I have read and agree to the</string>
-
+    <string name="seo_inicio">Recovery data hard disk it\'s one of the most common concerns of mobile users who delete files by mistake. \n  When you delete a photo it is not deleted from the system, it only tells the device that space is ready to overwrite it. Until this does not happen it is not "deleted" and yet it is best to happen several times for a secure erase. Recovery data hard disk efficiently </string>
     <string name="title_activity_about">Settings</string>
 
     <!-- Strings related to Settings -->

@@ -84,7 +84,7 @@
                             <LinearLayout
                                 android:layout_width="match_parent"
                                 android:layout_height="match_parent"
-                                android:background="@color/scan_color"
+                                android:background="#607d8b"
                                 android:gravity="center"
                                 android:orientation="vertical"
                                 android:weightSum="1">
@@ -139,7 +139,7 @@
                                     android:layout_width="match_parent"
                                     android:layout_height="0dp"
                                     android:layout_weight="1"
-                                    android:background="@color/restore_color"
+                                    android:background="#34515e  "
                                     android:gravity="center"
                                     android:padding="8dp">
 
@@ -306,9 +306,49 @@
                 </LinearLayout>
             </androidx.cardview.widget.CardView>
 
+            <View
+                android:layout_width="0dp"
+                android:layout_height="@dimen/spacing_large" />
 
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/spacing_large"
+                android:layout_marginRight="@dimen/spacing_large"
+                app:cardCornerRadius="3dp"
+                app:cardElevation="2dp">
+
+
+                <LinearLayout
+                    android:layout_above="@id/adView"
+                    android:weightSum="2"
+                    android:orientation="vertical"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+                    <TextView
+                        android:id="@+id/aaa"
+
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_horizontal"
+                        android:background="@color/colorAccent"
+                        android:gravity="center"
+                        android:text="⚠ Recovery Data Hard Disk ⚠"
+                        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+                        android:textColor="@color/colorAccent2" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:padding="10dp"
+                        android:text="@string/seo_inicio"
+                        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+                        android:textColor="@color/grey_90" />
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
         </LinearLayout>
-
     </androidx.core.widget.NestedScrollView>
 
 

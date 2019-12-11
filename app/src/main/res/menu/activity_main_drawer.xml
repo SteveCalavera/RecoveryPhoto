@@ -15,7 +15,6 @@
         <item
             android:id="@+id/nav_restored"
             android:icon="@drawable/icon_restore"
-            android:iconTint="#FF000000"
             android:title="Restored Photos" />
         <item
             android:id="@+id/nav_contact_us"

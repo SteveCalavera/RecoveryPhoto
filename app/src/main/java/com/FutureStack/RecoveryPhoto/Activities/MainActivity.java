@@ -101,9 +101,9 @@ public class MainActivity extends AppCompatActivity
         cvScan = findViewById(R.id.cvScan);
         cvRestored = findViewById(R.id.cvRestored);
 
-        share = ( FloatingActionButton)findViewById(R.id.fl_share);
-        rate = ( FloatingActionButton)findViewById(R.id.fl_rate);
-        more = ( FloatingActionButton)findViewById(R.id.fl_more);
+        share = findViewById(R.id.fl_share);
+        rate = findViewById(R.id.fl_rate);
+        more = findViewById(R.id.fl_more);
 
 
 
@@ -228,7 +228,7 @@ public class MainActivity extends AppCompatActivity
         } else if (id == R.id.nav_share) {
             Intent myIntent = new Intent(Intent.ACTION_SEND);
             myIntent.setType("text/plain");
-            String shareBody = "Recover Deleted Photos";
+            String shareBody = "Recovery Deleted Photos";
             String shareSub = "Let me recommend you this application\n\nRecover Deleted Photos\n";
             shareSub += "https://play.google.com/store/apps/details?id="+getApplicationContext().getPackageName();
             myIntent.putExtra(Intent.EXTRA_TEXT, shareSub);
